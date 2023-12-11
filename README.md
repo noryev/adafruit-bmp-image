@@ -4,7 +4,7 @@
 This repo is dedicated to circuit python code that runs a slideshow on a ESP32 Microcontroller and a 250x250 display using .bmp images saved within a images folder on the device.
 
 # Instructions to get this working! 
-First I am using a Adafruit Funhouse IOT Home Automation Board, which is based on ESP 32. (found here)[https://learn.adafruit.com/adafruit-funhouse]
+First I am using a Adafruit Funhouse IOT Home Automation Board(Uses ESP32 Microcontroller). (found here)[https://learn.adafruit.com/adafruit-funhouse]
 
 I am using CircuitPython for this project instead of the ArduinoIDE! 
 
